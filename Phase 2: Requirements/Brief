@@ -1,1 +1,6 @@
 # Software Requirements Specifications (aka SRS) document
+- The SRS document outlines the functional and non-functional requirements of a web-based student performance analytics tool. 
+- It details the system’s purpose, scope, user roles, and key features, including interactive grade visualizations, trend analysis, and performance comparisons. 
+- The document defines system architecture, security measures, and usability aspects to ensure efficient academic tracking. 
+- It also specifies the database structure, authentication mechanisms, and data processing for real-time insights. 
+- Designed for students and professors, our website aims to enhance learning outcomes through data-driven decision-making and an intuitive user experience.
