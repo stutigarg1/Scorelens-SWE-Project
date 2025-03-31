@@ -1,4 +1,3 @@
-# Software Engineering (SWE) Project
 
 - Working on a project to create user-friendly visualization tool designed to analyze student performance, track progress, and uncover key insights through advanced data analytics.
 - With interactive charts and reports; faculty, students and administrators can identify trends, measure growth, and make data-driven decisions to enhance learning outcomes.
