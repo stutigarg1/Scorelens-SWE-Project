@@ -1,6 +1,6 @@
 Development Brief
 Features: 
-- User Authentication: Users can sign up, log in, and access data based on their role (e.g., professor, student).
+- User Authentication: Users can sign up, log in, and access data based on their role (like professor, student or admin).
 - Course Management: Professors can create courses and view courses they are teaching.
 - Student Enrollment: Students can enroll in courses.
 - Score Management: Professors can upload scores for students in a course, and students can view their own scores and course statistics.
