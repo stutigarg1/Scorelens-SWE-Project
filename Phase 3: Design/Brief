@@ -1,6 +1,6 @@
 Design Brief: 
 
-ScoreLens is a web-based tool for visualizing student academic performance using interactive graphs. It allows professors to upload Excel-based grade data, which is stored in a SQLite database and visualized using charts. The design follows a modular, three-layer architecture: User Interface, Backend Logic, and Database.
+ScoreLens is a web-based tool for visualizing student academic performance using interactive graphs. It allows professors to upload Excel-based grade data, which is stored in a SQLite database and visualized using charts. The design follows a modular, three-layer architecture: User Interface, Backend Logic, and Database. 
 
 Key Components: 
 - Frontend (HTML, JS): Upload forms, charts, dashboard
