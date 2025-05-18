@@ -1,1 +1,10 @@
+Deployment Brief:
+ScoreLens is a a web application using a modern frontend-backend architecture. The current interface is running locally on localhost:3000, a development setup using React.js.
 
+Deployment Components:
+- Frontend: Built with React.js
+- Hosted via npm start during development (default localhost:3000)
+- Production build can be deployed using services as that of GitHub.
+- Backend: Used Flask (Python) 
+- Database: SQLite (file-based, suitable for small deployments)
+- APIs: RESTful APIs connecting frontend and backend (used in login, file upload, data visualization)
