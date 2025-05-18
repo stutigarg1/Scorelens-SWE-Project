@@ -1,1 +1,20 @@
+Test Plan Brief
+- The Software Test Plan for ScoreLens outlines the structured approach to validate the platform’s functionalities and ensure reliable performance. It includes test cases for:
 
+Key Modules Tested:
+- Login Module: Validates user authentication with correct and incorrect credentials.
+- File Upload Module: Tests Excel file validation, upload success, and error handling for unsupported formats.
+- Visualization Module: Ensures correct generation of bar, line, and pie charts based on uploaded data.
+- Grade Management: Verifies upload accuracy, class average calculations, and data storage integrity.
+- Role-Based Access: Confirms appropriate permissions for students, professors, and admins.
+- Exception Handling: Validates behavior under invalid inputs, failed connections, and data retrieval errors.
+
+Test Methods:
+- Manual Testing for UI flows and file operations
+- Black-box Testing to validate input/output behavior
+- Edge Case Testing for empty files, large data, and unexpected formats
+
+Goals:
+- Ensure system reliability, security, and usability
+- Validate that core functions (login, upload, visualize) work across user roles
+- Detect and log bugs before deployment
